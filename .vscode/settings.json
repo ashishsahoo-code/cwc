@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Python\\Python39\\python.exe",
+    "java.project.sourcePaths": [
+        "src",
+        ".vscode",
+        ""
+    ]
+}
